@@ -1,5 +1,5 @@
 ---
-title: "DataViz_Assignment 1"
+title: "Winter Olympics Visualizations"
 author: "Cindy Chen"
 date: "2/15/2022"
 output: html_document
