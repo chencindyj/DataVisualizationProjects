@@ -1,4 +1,4 @@
-# DataVisualizationProjects
+# Data Visualization Projects
 Samples of data visualization projects using R
 
 * Historical Winter Olympic Performance
