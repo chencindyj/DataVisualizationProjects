@@ -1,6 +1,6 @@
 ---
-title: "DataViz_Assignment 3"
-author: "Cindy Chen, cjc2279"
+title: "Kickstarter Visualizations"
+author: "Cindy Chen"
 date: "3/26/2022"
 output: html_document
 ---
