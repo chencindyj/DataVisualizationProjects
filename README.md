@@ -7,3 +7,5 @@ Samples of data visualization projects using R and Shiny
 * Billboard Top Song Visualizations using R Shiny
 
 My culminating data visualization group project is located here (please see the Climate-Real-Estate repo in my Github for the code): https://chencindyj.shinyapps.io/main/
+
+![Header1](https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-2-1.png "Header1")
