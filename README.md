@@ -9,8 +9,8 @@ Samples of data visualization projects using R and Shiny
 My culminating data visualization group project is located here (please see the Climate-Real-Estate repo in my Github for the code): https://chencindyj.shinyapps.io/main/
 
 
-<img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/gdp-1.png" width="400" />
-<img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/population-1.png" width="400" />
+<img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/NYC%20AirBnb/src/air_bnb2.PNG" width="400" />
+<img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/NYC%20AirBnb/src/air_bnb.PNG" width="400" />
 <img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-2-1.png" width = "400" />
 <img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-4-1.png" width = "400" />
 <img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-7-1.png" width = "400" />
