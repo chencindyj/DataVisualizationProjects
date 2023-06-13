@@ -14,5 +14,4 @@ My culminating data visualization group project is located here (please see the 
 <img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-2-1.png" width = "400" />
 <img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-4-1.png" width = "400" />
 <img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-7-1.png" width = "400" />
-<img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-8-1.png" width = "400" />
-<img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Winter%20Olympics/output/unnamed-chunk-9-1.png" width = "400" />
+<img src="https://github.com/chencindyj/Data_Viz_Projects/blob/main/Kickstarter_Text_Analysis/src/achievement_ratio.PNG" width = "400" />
